@@ -17,9 +17,10 @@ URL [https://osakana0000.github.io/jankenJs/](https://osakana0000.github.io/jank
 
 ## Requirement
 - ES6
+- Bootstrap5
 
 ## Licence
-This code in under [MIT license](https://en.wikipedia.org/wiki/MIT_License)
+- This code in under [MIT license](https://en.wikipedia.org/wiki/MIT_License)
 
 ## Author
 - osakana0000 [https://github.com/osakana0000](https://github.com/osakana0000)
