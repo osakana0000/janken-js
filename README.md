@@ -1,9 +1,9 @@
-# jankenJs
+# janken-js
 ## Overview
 - じゃんけんを模したWebアプリです。
 
 ## Demo
-URL [https://osakana0000.github.io/jankenJs/](https://osakana0000.github.io/jankenJs/)
+URL [https://osakana0000.github.io/jankenJs/](http://osakana0000.site/janken-js/)
 
 ## Discription
 - 「グー」「チョキ」「パー」のいづれかを選択すると、CPUもじゃんけんの手段を表示します。
